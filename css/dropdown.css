@@ -1,0 +1,55 @@
+.dropdown {
+    position: relative;
+  }
+  
+  .dropdown:hover  .dropdown__menu {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+  
+  .dropdown__menu {
+    position: absolute;
+    display: none;
+    justify-content: center;
+    flex-direction: column;
+    margin-left: 35px;
+    background: url(./../img/shedule-empty.png);
+    width: 157px;
+    height: 77px;
+    margin-right: 0px;
+    
+  }
+  
+  .dropdown__menu::before {
+    content: "";
+    display: block;
+    width: 150px;
+    height: 77px;
+    right: -1px;
+    bottom: -1px;
+    position: absolute;
+  }
+  
+  
+  .dropdown__list {
+    display: flex;
+    align-items: flex-end;
+    flex-direction: column;
+    padding-right: 18px;
+  
+  }
+  
+  .dropdown__item {
+    font-weight: 400;
+    font-size: 13px;
+    color: #1e1f20;
+  }
+  
+  .dropdown__item_fw-bold {
+    font-weight: bold;
+  }
+  
+  .dropdown__item:last-child  {
+    padding-right: 11px;
+  }
