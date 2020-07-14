@@ -5,18 +5,18 @@
     min-height: 600px;
   }
 
-  .hero__text-section {
+.hero__text-section {
     width: 38%;
   }
   
-  .hero__title {
+.hero__title {
     font-size: 48px;
     font-weight: bold;
     line-height: 1.2;
     margin-bottom: 18px;
   }
   
-  .hero__subtitle {
+.hero__subtitle {
     font-size: 18px;
     color: #dfb56d;
     margin-bottom: 44px;

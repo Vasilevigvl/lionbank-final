@@ -9,43 +9,43 @@ body {
     -moz-osx-font-smoothing: grayscale;
   }
   
-  a {
+a {
     color:inherit;
   }
   
-  ul {
+ul {
     padding: 0;
     margin: 0;
   }
   
-  ul li {
+ul li {
     list-style: none;
   }
   
-  h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6 {
     margin: 0;
     font-weight: normal;
   }
   
   
-  p {
+p {
     margin-top: 0;
   }
   
-  * {
+* {
     box-sizing: border-box;
   }
   
-  img {
+img {
     display: block; 
     max-width: 100%;
   }
   
-  body, html{
+body, html{
     height: 100%;
   }
   
-  button  {
+button  {
     background: transparent;
     border: none;
     cursor: pointer;

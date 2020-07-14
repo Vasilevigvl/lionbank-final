@@ -5,26 +5,26 @@
     justify-content: space-between;
   }
   
-  .footer-container {
+.footer-container {
     margin-top: auto;
   }
   
-  .footer-container__content {
+.footer-container__content {
     border-top: 1px solid #353538;
   }
   
-  .footer-container__section  {
+.footer-container__section  {
     height: 140px;
     margin-top: 12px;
   }
   
   
   
-  .footer__col  {
+.footer__col  {
     display: flex;
     align-items: center;
   }
   
-  .footer__col--right {
+.footer__col--right {
     align-items: flex-end;
   }

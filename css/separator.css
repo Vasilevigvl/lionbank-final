@@ -7,11 +7,11 @@
     color: #202123;
   }
   
-  .separator__content {
+.separator__content {
     max-width: 45%;
   }
   
-  .separator__title {
+.separator__title {
     font-size: 48px;
     font-weight: bold;
     line-height: 1.1;

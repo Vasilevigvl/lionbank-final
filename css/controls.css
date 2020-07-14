@@ -4,19 +4,19 @@
     flex-wrap: wrap;
   }
   
-  .conrols__item {
+.conrols__item {
     margin-bottom: 10px;
     margin-right: 10px;
   }
   
-  .controls__elem {
+.controls__elem {
     cursor: pointer;
   }
   
-  .controls__checkbox:checked ~ .controls__tag {
+.controls__checkbox:checked ~ .controls__tag {
     background: #c7e9d0;
   }
   
-  .controls__checkbox {
+.controls__checkbox {
     display: none;
   }

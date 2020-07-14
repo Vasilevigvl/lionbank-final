@@ -2,7 +2,7 @@
     display: flex;
   }
   
-  .about:before {
+.about:before {
     content: "";
     display: block;
     width:488px;
@@ -10,7 +10,7 @@
     background: url(./../img/decor/chess.jpg) center center  / cover no-repeat;
   }
   
-  .about__desc {
+.about__desc {
     background: #202123;
     padding: 80px 98px;
     max-width: 780px;
@@ -21,20 +21,20 @@
     margin-top: 170px;
   }
   
-  .about__title {
+.about__title {
     font-weight: bold;
     font-size: 36px;
     margin-bottom: 28px;
   }
   
-  .about__desc_text {
+.about__desc_text {
     margin-bottom: 42px;
   }
   
-  .about__desc_text p {
+.about__desc_text p {
     margin-bottom: 20px;
   }
   
-  .about__desc_text p:last-child {
+.about__desc_text p:last-child {
     margin-bottom: 0;
   }

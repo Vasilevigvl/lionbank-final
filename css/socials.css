@@ -52,5 +52,5 @@
   }
   
   .socials__item_icon_instagram .socials__link:hover {
-    background-image: url(./img/icons/socials/instagram-hover.png)
+    background-image: url(./../img/icons/socials/instagram-hover.png)
   }

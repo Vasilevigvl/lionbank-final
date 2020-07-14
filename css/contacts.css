@@ -4,22 +4,21 @@
   }
   
   
-  .contacts__phone {
+.contacts__phone {
   text-decoration: none;
   font-size: 26px;
   margin-bottom: 4px;
   }
   
-  .contacts__dropdown-title {
+.contacts__dropdown-title {
     font-size: 13px;
     text-decoration: underline;
     color: #dfb56d;
     cursor: pointer;
   }
   
-  
-  
-  .contacts__desc {
+
+.contacts__desc {
     color: #999999;
     font-family: "Open Sans";
     font-size: 11px;

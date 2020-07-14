@@ -10,32 +10,32 @@
     background:#d3a556;
   }
   
-  .btn:hover {
+.btn:hover {
     background:#d3a556;
     box-shadow: 0 0 40px rgba(223, 181, 109, 0.15)
   }
   
   
-  .btn_color_ginger:hover {
+.btn_color_ginger:hover {
     background:#d3a556;
     box-shadow: 0 0 25px rgba(223, 181, 109, 0.15)
   }
   
   
-  .btn_color_black {
+.btn_color_black {
     background: #202123;
   
   }
     
   
-  .btn_color_black:hover {
+.btn_color_black:hover {
     background-color: #dfb56b;
   }
   
-  .btn_color_gray  {
+.btn_color_gray  {
     background: #8d8d8d;
   }
   
-  .btn_color_gray:hover  {
+.btn_color_gray:hover  {
     background: #202123;
   }
