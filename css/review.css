@@ -41,9 +41,12 @@
     text-decoration: underline;
   }
   
-.review__user::after{
-    content: url(./../img/icons/socials/vk-colored.png);
-    height: 29px;
+.review__user:after{
+    display: flex;
+    content: "";
+    background: url(./../img/icons/socials/css_sprites.png) -122px -122px;
+    width: 30px; 
+    height: 30px;
     margin-left: 10px;
   }
   
